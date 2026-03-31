@@ -1,4 +1,4 @@
-# pdf-review-workflow
+# pdf-review-engine
 "you can batch messy real-world PDFs and still trust the output because of review"
 
 > ⚠️ This is NOT a PDF parser.
