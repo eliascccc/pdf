@@ -102,8 +102,8 @@ This enables:
 - fast human verification
 - safe batch processing across suppliers
 
-Instead of chasing perfect parsing,
-this system makes imperfect parsing usable.
+Instead of making parsing perfect,
+this system makes parsing usable.
 
 ---
 
@@ -174,8 +174,3 @@ you verify it.
 - Not multi-user safe (not yet, in progress)
 
 ---
-
-## Philosophy
-
-Make PDF parsing usable — not perfect.
-
